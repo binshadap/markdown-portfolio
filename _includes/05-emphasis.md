@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My name is Binshad A P*
+_Engineering student_
+
+**Electronics and communication**
+__Love sports__
+
+_My college : **GECW** combine them_
